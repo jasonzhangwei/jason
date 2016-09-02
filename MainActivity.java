@@ -12,7 +12,7 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setcontentview(R.layout.activity_main);
- String 
+ String makeyouhappy
     }
 
 
