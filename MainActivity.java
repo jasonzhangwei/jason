@@ -12,7 +12,11 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setcontentview(R.layout.activity_main);
- String makeyouhappy="you are a  smartman";
+<<<<<<< HEAD
+ String makeyouhappy="you are a so smartman";
+=======
+ String makeyouhappy="you are a so smartman";
+>>>>>>> featurel
     }
 
 
